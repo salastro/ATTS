@@ -7,7 +7,7 @@ This is a Python script that automates the process of tracking employee attendan
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/attendance-tracker.git
+   git clone https://github.com/salastro/atts.git
    ```
 
 2. Install the script:
